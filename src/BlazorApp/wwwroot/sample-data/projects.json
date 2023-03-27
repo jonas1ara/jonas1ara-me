@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "IPN-CS",
+    "description": "A summary of what is taught in the area of Computer Science of the Interdisciplinary Professional Unit of Engineering Campus Tlaxcala (Linux)",
+    "url": "https://github.com/Jonas-Lara/IPN-CS"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "UPIIT-AR",
+    "description": "Create an Augmented Reality Description for the UPIIT Campus using Unity and Vuforia",
+    "url": "https://github.com/Jonas-Lara/UPIIT-AR"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "DIP",
+    "description": "Create an App Web for show the Process of the Digital Image Processing using C# and Blazor",
+    "url": "https://github.com/Jonas-Lara/DIP"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Flappy Bird AI",
+    "description": "Create a Neural Network to play the Famous Game Flappy Bird using C# and Blazor",
+    "url": "https://github.com/Jonas-Lara/FlappyBird-NN"
   }
 ]
