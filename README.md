@@ -1,6 +1,6 @@
 # Portfolio of the beginnings in my artificial intelligence career 🤖
 
-![Portfolio](/src/BlazorApp/wwwroot/images/P.png)
+![Portfolio](/src/BlazorApp/wwwroot/images/AI.png)
 
 _It is a very fast application without any 💧 of javascript_
 
