@@ -8,15 +8,5 @@
     "title": "UPIIT-AR",
     "description": "Create an Augmented Reality Description for the UPIIT Campus using Unity and Vuforia",
     "url": "https://github.com/Jonas-Lara/UPIIT-AR"
-  },
-  {
-    "title": "DIP",
-    "description": "Create an App Web for show the Process of the Digital Image Processing using C# and Blazor",
-    "url": "https://github.com/Jonas-Lara/DIP"
-  },
-  {
-    "title": "Flappy Bird AI",
-    "description": "Create a Neural Network to play the Famous Game Flappy Bird using C# and Blazor",
-    "url": "https://github.com/Jonas-Lara/FlappyBird-NN"
   }
 ]
