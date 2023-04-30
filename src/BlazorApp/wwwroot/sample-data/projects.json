@@ -8,5 +8,15 @@
     "title": "UPIIT-AR",
     "description": "Create an Augmented Reality Description for the UPIIT Campus using Unity and Vuforia",
     "url": "https://github.com/Jonas-Lara/UPIIT-AR"
+  },
+  {
+    "title": "DIP",
+    "description": "Create an App Web for show the Process of the Digital Image Processing using C# and Blazor",
+    "url": "https://github.com/Jonas-Lara/DIP"
+  },
+  {
+    "title": "LeetCode Solutions",
+    "description": "I Solve problems of LeetCode using C#, and I upload the solutions to this repository with a video explanation in Spanish", 
+    "url": "https://github.com/Jonas-Lara/Leetcode-CS"
   }
 ]
