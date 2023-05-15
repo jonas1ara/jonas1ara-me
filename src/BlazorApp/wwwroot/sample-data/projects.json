@@ -5,18 +5,18 @@
     "url": "https://github.com/Jonas-Lara/IPN-CS"
   },
   {
-    "title": "UPIIT-AR",
-    "description": "Create an Augmented Reality Description for the UPIIT Campus using Unity and Vuforia",
-    "url": "https://github.com/Jonas-Lara/UPIIT-AR"
+    "title": "FlappyBird-NN",
+    "description": "Using C# and Blazor WASM I cloned the famous game of the year 2013 Flappy Bird, then using it I built a neural network that learns to play it",
+    "url": "https://jonas-lara.github.io/FlappyBird-NN/"
   },
   {
     "title": "DIP",
-    "description": "Create an App Web for show the Process of the Digital Image Processing using C# and Blazor",
-    "url": "https://github.com/Jonas-Lara/DIP"
+    "description": "A Web App for show the Process of the Digital Image Processing using C# and Blazor Web Assembly",
+    "url": "https://jonas-lara.github.io/DIP/"
   },
   {
     "title": "Rock-Lee",
-    "description": "I Solve problems of LeetCode using C++, and I upload the solutions to this repository with a video explanation in Spanish", 
-    "url": "https://github.com/Jonas-Lara/Rock-Lee"
+    "description": "I solve LeetCode problems using C#, then upload the solutions to a repository and I explain them in SPANISH on my YT channel", 
+    "url": "https://www.youtube.com/channel/UCPb7qmZXP9J2lFlLmuY3I4g"
   }
 ]
