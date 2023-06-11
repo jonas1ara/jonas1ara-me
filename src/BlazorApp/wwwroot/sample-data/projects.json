@@ -5,18 +5,13 @@
     "url": "https://github.com/Jonas-Lara/IPN-CS"
   },
   {
-    "title": "FlappyBird-NN",
-    "description": "Using C# and Blazor WASM I cloned the famous game of the year 2013 Flappy Bird, then using it I built a neural network that learns to play it",
-    "url": "https://jonas-lara.github.io/FlappyBird-NN/"
-  },
-  {
     "title": "DIP",
     "description": "A Web App for show the Process of the Digital Image Processing using C# and Blazor Web Assembly",
     "url": "https://jonas-lara.github.io/DIP/"
   },
   {
-    "title": "Rock-Lee",
-    "description": "I solve LeetCode problems using C#, then upload the solutions to a repository and I explain them in SPANISH on my YT channel", 
+    "title": "73",
+    "description": "I solve LeetCode problems using C and C++, then upload the solutions to a repository and I explain them in SPANISH on my YT channel", 
     "url": "https://www.youtube.com/channel/UCPb7qmZXP9J2lFlLmuY3I4g"
   }
 ]
