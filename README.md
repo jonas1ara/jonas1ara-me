@@ -13,7 +13,7 @@ _It is a very fast application without any 💧 of javascript_
 * _[.NET](https://dotnet.microsoft.com/) - .NET_
 * _[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) - Blazor_
 * _[Debian](https://www.debian.org/index.es.html) - Debian_
-* _[Visual Studio Code](https://code.visualstudio.com/) - VS Code_
+* _[VS Code](https://code.visualstudio.com/) - VS Code_
 
 ## Expressions of gratitude
 
