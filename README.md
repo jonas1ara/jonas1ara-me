@@ -9,9 +9,10 @@ _It is a very fast application without any 💧 of javascript_
 
 ## Build with 🛠️
 
+* _[WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - WSL_
 * _[.NET](https://dotnet.microsoft.com/) - .NET_
 * _[Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) - Blazor_
-* _[Ubuntu](https://ubuntu.com/) - Ubuntu 22.04_
+* _[Debian](https://www.debian.org/index.es.html) - Ubuntu_
 * _[Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code_
 
 ## Expressions of gratitude
