@@ -32,10 +32,38 @@ section.light {
   color: black;
   background: rgba(255, 255, 255, 0.35);
   padding: 8rem 0;
+  bottom: 1px;
 }
 
+@media screen and (max-width: 420px) {
+  section.light {
+    color: black;
+    background: rgba(255, 255, 255, 0.35);
+    padding: 8rem 0;
+    bottom: 0px;
+  }
+}
+
+#lista{
+  text-align: left; 
+  columns: 2; 
+  font-size: 1.25rem; 
+  margin: 2rem 3rem; 
+  gap: 3rem;
+}
+
+@media screen and (max-width: 420px) {
+  #lista {
+    text-align: left; 
+    display: flex;
+    flex-direction: column;
+    padding-left: 5px;
+  }
+}
+
+
 section img.background {
-  width: 100vmax;
+  width: 100%;
   height: 100%;
   z-index: -1;
   position: absolute;
@@ -51,6 +79,33 @@ h1 {
   font-family: "Cormorant Garamond", serif;
   font-size: 7rem;
   margin: 0;
+}
+
+@media screen and (max-width: 300px) {
+  h1 {
+    font-weight: 300;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 3rem;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 301px) and (max-width: 360px) {
+  h1 {
+    font-weight: 300;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 4rem;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 361px) and (max-width: 420px) {
+  h1 {
+    font-weight: 300;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 5rem;
+    margin: 0;
+  }
 }
 
 h2 {
@@ -71,6 +126,7 @@ p {
   line-height: 1.5;
   margin-bottom: 0;
   font-weight: 300;
+  text-align: justify;
 }
 
 p.large {
@@ -102,11 +158,44 @@ a:hover {
   color: #4e567e;
 }
 
+.portfolio-container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 3rem;
+}
+
+@media screen and (max-width: 420px) {
+  .portfolio-container {
+    flex-direction: column;
+  }
+}
+
+.portfolio-hero {
+  max-width: 40%;
+  align-self: center;
+}
+
+@media screen and (max-width: 420px) {
+  .portfolio-hero {
+    max-width: 100%;
+    align-self: center;
+  }
+}
+
 .container {
   margin: 20px auto;
   display: grid;
   grid-template-columns: 330px 300px;
   grid-gap: 20px;
+}
+
+@media screen and (max-width: 420px) {
+  .container {
+    margin: 20px auto;
+    display: inline;
+    grid-template-columns: 330px 300px;
+    grid-gap: 20px;
+  }
 }
 
 .container .box {
@@ -117,6 +206,20 @@ a:hover {
   flex-direction: column;
   border: 1px solid rgb(204, 204, 204);
   text-align: center;
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width: 420px) {
+  .container .box {
+    border-radius: 10px;
+    padding: 24px 16px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    border: 1px solid rgb(204, 204, 204);
+    text-align: center;
+    margin: 20px;
+  }
 }
 
 img.social-icon {
