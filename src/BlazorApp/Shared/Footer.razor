@@ -8,22 +8,28 @@
     else if (icons is not null)
     {
         <div style="display: flex; justify-content: center; gap: 2.5rem;">
-            @if (string.IsNullOrWhiteSpace(property.GitHub) is false)
-            {
-                <a href="https://github.com/Jonas-Lara" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.GitHub" alt="GitHub" class="social-icon" />
-                </a>
-            }
             @if (string.IsNullOrWhiteSpace(property.LinkedIn) is false)
             {
                 <a href="https://www.linkedin.com/in/jonas1ara/" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.LinkedIn" alt="Dev.to" class="social-icon" />
+                    <img src="@icons.LinkedIn" alt="LinkedIn" class="social-icon" />
+                </a>
+            }
+            @if (string.IsNullOrWhiteSpace(property.GitHub) is false)
+            {
+                <a href="https://github.com/jonas1ara" target="_blank" rel="noopener noreferrer">
+                    <img src="@icons.GitHub" alt="GitHub" class="social-icon" />
+                </a>
+            }
+            @if (string.IsNullOrWhiteSpace(property.Twitter) is false)
+            {
+                <a href="https://twitter.com/Jonas1ara" target="_blank" rel="noopener noreferrer">
+                    <img src="@icons.Twitter" alt="Twitter" class="social-icon" />
                 </a>
             }
             @if (string.IsNullOrWhiteSpace(property.YouTube) is false)
             {
-                <a href="https://www.youtube.com/channel/UCPb7qmZXP9J2lFlLmuY3I4g" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.YouTube" alt="Dev.to" class="social-icon" />
+                <a href="https://www.youtube.com/channel/UCi-dr1Oe8oNtjlyjlPBx5gg" target="_blank" rel="noopener noreferrer">
+                    <img src="@icons.YouTube" alt="YouTube" class="social-icon" />
                 </a>
             }
         </div>
