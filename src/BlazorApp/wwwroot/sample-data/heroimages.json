@@ -1,7 +1,7 @@
 [
   {
     "name": "home",
-    "src": "images/Ubuntu.png",
+    "src": "images/Ubuntu.jpg",
     "alt": "woman holding laptop standing by server room with glass wall"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "name": "portfolio",
-    "src": "images/Desk.jpg",
+    "src": "images/Desk.png",
     "alt": "desktop with books and laptop"
   }
 ]
