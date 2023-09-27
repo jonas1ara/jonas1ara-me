@@ -8,12 +8,6 @@
     else if (icons is not null)
     {
         <div style="display: flex; justify-content: center; gap: 2.5rem;">
-            @if (string.IsNullOrWhiteSpace(property.LinkedIn) is false)
-            {
-                <a href="https://linkedin.com/in/@(property.LinkedIn)" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.LinkedIn" alt="LinkedIn" class="social-icon" />
-                </a>
-            }
             @if (string.IsNullOrWhiteSpace(property.GitHub) is false)
             {
                 <a href="https://github.com/@(property.GitHub)" target="_blank" rel="noopener noreferrer">
