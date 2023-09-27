@@ -1,32 +1,32 @@
 [
   {
-    "title": "IPN-CS",
-    "description": "A summary of what is taught in the area of Computer Science of the Interdisciplinary Professional Unit of Engineering Campus Tlaxcala (Linux)",
-    "url": "https://github.com/jonas1ara/IPN-CS"
+    "title": "Project-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
+    "url": "https://www.youtube.com/channel/UCPb7qmZXP9J2lFlLmuY3I4g"
   },
   {
-    "title": "DIP",
-    "description": "A Web App for show the Process of the Digital Image Processing using C# and Blazor Web Assembly",
+    "title": "Project-2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
     "url": "https://jonas1ara.github.io/DIP/"
   },
   {
-    "title": "73",
-      "description": "I solve LeetCode problems using C, C++ and C#, then upload the solutions to a repository and I explain them in SPANISH on my YT channel", 
-    "url": "https://www.youtube.com/channel/UCPb7qmZXP9J2lFlLmuY3I4g"
+    "title": "Project-3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
+    "url": "https://github.com/jonas1ara/IPN-CS"
   },
   {
-    "title": "Photos",
-      "description": "I designed, built and deployed my own web application to upload my photographs, this application is built using ASP.NET core and Blazor", 
+    "title": "Project-4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
     "url": "jonas1ara.photos"
   },
   {
-    "title": "73",
-      "description": "I solve LeetCode problems using C, C++ and C#, then upload the solutions to a repository and I explain them in SPANISH on my YT channel", 
+    "title": "Project-5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
     "url": "https://www.youtube.com/channel/UCPb7qmZXP9J2lFlLmuY3I4g"
   },
   {
-    "title": "Photos",
-      "description": "I designed, built and deployed my own web application to upload my photographs, this application is built using ASP.NET core and Blazor", 
+    "title": "Project-6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
     "url": "jonas1ara.photos"
   }
 ]
