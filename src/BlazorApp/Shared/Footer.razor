@@ -14,12 +14,7 @@
                     <img src="@icons.LinkedIn" alt="LinkedIn" class="social-icon" />
                 </a>
             }
-            @if (string.IsNullOrWhiteSpace(property.Medium) is false)
-            {
-                <a href="https://www.linkedin.com/in/jonas1ara/" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.Medium" alt="Medium" class="social-icon" />
-                </a>
-            }
+            
             @if (string.IsNullOrWhiteSpace(property.GitHub) is false)
             {
                 <a href="https://github.com/jonas1ara" target="_blank" rel="noopener noreferrer">
@@ -30,6 +25,12 @@
             {
                 <a href="https://twitter.com/Jonas1ara" target="_blank" rel="noopener noreferrer">
                     <img src="@icons.Twitter" alt="Twitter" class="social-icon" />
+                </a>
+            }
+            @if (string.IsNullOrWhiteSpace(property.Medium) is false)
+            {
+                <a href="https://medium.com/@jonas_lara" target="_blank" rel="noopener noreferrer">
+                    <img src="@icons.Medium" alt="Medium" class="social-icon" />
                 </a>
             }
             @if (string.IsNullOrWhiteSpace(property.YouTube) is false)
