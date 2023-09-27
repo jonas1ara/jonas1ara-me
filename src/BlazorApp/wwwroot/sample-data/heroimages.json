@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/Ubuntu.jpg",
-    "alt": "woman holding laptop standing by server room with glass wall"
+    "src": "images/Roman-empire.jpg",
+    "alt": "Roman empire image generate with Bing"
   },
   {
     "name": "about",
-    "src": "images/mosaic.svg",
+    "src": "images/Mosaic.svg",
     "alt": "purple and blue abstract background"
   },
   {
     "name": "portfolio",
-    "src": "images/Desk.png",
-    "alt": "desktop with books and laptop"
+    "src": "images/Me.png",
+    "alt": "me"
   }
 ]

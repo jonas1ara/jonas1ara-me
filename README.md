@@ -1,6 +1,6 @@
-# Portfolio of my artificial intelligence career 🤖
+# Portfolio for my Computer Sciences career  💻
 
-![Portfolio](/src/BlazorApp/wwwroot/images/AI.png)
+![Portfolio](/src/BlazorApp/wwwroot/images/Microsoft-dotnet.png)
 
 _It is a very fast application without any 💧 of javascript_
 
@@ -16,5 +16,5 @@ _It is a very fast application without any 💧 of javascript_
 
 ## Expressions of gratitude
 
-_Made with ❤️ by [Jonas Lara](https://medium.com/@jonas_lara) AI engineering student at [UPIIT](https://www.upiit.ipn.mx/) for whoever is interested 😉_
+_Made with ❤️ by [Jonas Lara](https://medium.com/@jonas_lara) Maths student at [UNADM](https://www.unadmexico.mx/) for whoever is interested 😉_
 
