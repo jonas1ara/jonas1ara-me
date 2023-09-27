@@ -1,8 +1,6 @@
-# Portfolio for my Computer Sciences career  💻
+![Technology](/src/BlazorApp/wwwroot/images/Microsoft-dotnet.png)
 
-![Portfolio](/src/BlazorApp/wwwroot/images/Microsoft-dotnet.png)
-
-_It is a very fast application without any 💧 of javascript_
+_Ok, this appication it's my portfolio for my Computer Science career, as you see It is a very fast application without any 💧 of javascript written over .NET_
 
 ![Languages](/src/BlazorApp/wwwroot/images/Languages.png)
 
