@@ -1,14 +1,16 @@
 {
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed nisi tellus, vestibulum at sem id, accumsan convallis augue. Etiam gravida, lacus eget aliquet auctor, purus dolor rutrum risus, vitae viverra libero magna ac dui. Vestibulum sit amet nibh consectetur, tempus metus sed, interdum ligula. Ut mattis sollicitudin aliquam. Duis nec aliquet risus, in facilisis mi. Quisque porta pulvinar egestas.",
+  "description": "I am a mathematics student at an online university in Mexico, this is great because it allows me to work, my goal is to become a researcher, but before becoming a researcher I have to work to live, and currently work as a .NET developer, all the programming knowledge I have is acquired self-taught and that makes me feel so incredible. Finally, I have to tell you that I am an open-source contributor on small projects made with C and F#, am in love with the F# programming language (the vision of its creator Don Syme just blows my mind) and am currently looking to contribute to the F# compiler, wish me luck 🍀",
   "skills": [
-    "Lorem ipsum",
-    "Lorem ipsum",
-    "Lorem ipsum",
-    "Lorem ipsum",
-    "Lorem ipsum",
-    "Lorem ipsum",
-    "Lorem ipsum",
-    "Lorem ipsum"
+    ".NET",
+    "F# (FP)",
+    "C# (OOP)",
+    "C++ (OOP)",
+    "SQL - NoSQL",
+    "Linux",
+    "Azure",
+    "Blazor",
+    "Git - GitHub",
+    "ASP.NET core"
   ],
-  "detailOrQuote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed nisi tellus, vestibulum at sem id, accumsan convallis augue. Etiam gravida, lacus eget aliquet auctor, purus dolor rutrum risus, vitae viverra libero magna ac dui. Vestibulum sit amet nibh consectetur, tempus metus sed, interdum ligula. Ut mattis sollicitudin aliquam. Duis nec aliquet risus, in facilisis mi. Quisque porta pulvinar egestas."
+  "detailOrQuote": "After working for a couple of years in the automotive industry as a mechatronics technician and stopping my career as a result of the covid-19 pandemic, in 2021 I decide to resume my university studies. I spent two years studying engineering in Artificial Intelligence but for personal reasons I have decided to move to a degree in mathematics."
 }

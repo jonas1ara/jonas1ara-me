@@ -1,32 +1,22 @@
 [
   {
-    "title": "Project-1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
-    "url": "https://www.youtube.com/channel/UCPb7qmZXP9J2lFlLmuY3I4g"
+    "title": "Me",
+      "description": "I needed a portfolio to share my projects and get a job, so, you guessed it! This web application is made by me using only HTML, CSS and... C# with blazor web assembly. It is hosted in GitHub Pages and deployed using GitHub Actions.", 
+    "url": "https://jonas1ara.github.io/jonas1ara-me/"
   },
   {
-    "title": "Project-2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
-    "url": "https://jonas1ara.github.io/DIP/"
+    "title": "Photos",
+      "description": "Tired of being spied on by Meta and its applications, I stopped using Instagram and Facebook, but I am a big fan of photography, so, I decided to build an application to share my best photos, it is a full stack .NET application using ASP.NET core for backend and Blazor for frontend, it is hosted in Azure and deployed using GitHub Actions.", 
+    "url": "#"
   },
   {
-    "title": "Project-3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
+    "title": "73",
+      "description": "I solved the 73 most useful LeetCode problems implemented in C, C++ and C#, I committed to myself to share my solutions with the community on X and GitHub. I also wrote three blog post on Medium about my experience.", 
+    "url": "https://github.com/jonas1ara/73"
+  },
+  {
+    "title": "IPN-CS",
+      "description": "I made a repository that covers the entire programming fundamentals course, the algorithms and data structures course and the algorithm analysis and design course of the Interdisciplinary Professional Engineering Unit Tlaxcala campus of the IPN, it is a very extensive project, where one of my first steps in computer science.", 
     "url": "https://github.com/jonas1ara/IPN-CS"
-  },
-  {
-    "title": "Project-4",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
-    "url": "jonas1ara.photos"
-  },
-  {
-    "title": "Project-5",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
-    "url": "https://www.youtube.com/channel/UCPb7qmZXP9J2lFlLmuY3I4g"
-  },
-  {
-    "title": "Project-6",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra arcu tincidunt neque vulputate, tempor vehicula tortor ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.", 
-    "url": "jonas1ara.photos"
   }
 ]
