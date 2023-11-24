@@ -1,8 +1,8 @@
 [
   {
     "name": "home",
-    "src": "images/Roman-empire.jpg",
-    "alt": "Roman empire image generate with Bing"
+    "src": "images/Portfolio.jpg",
+    "alt": "Me as a demon"
   },
   {
     "name": "about",
@@ -12,6 +12,6 @@
   {
     "name": "portfolio",
     "src": "images/Me.png",
-    "alt": "me"
+    "alt": "My Ubuntu Machine"
   }
 ]
