@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/Portfolio.jpg",
+    "src": "images/Portfolio.png",
     "alt": "Me as a demon"
   },
   {
     "name": "about",
     "src": "images/Mosaic.svg",
-    "alt": "purple and blue abstract background"
+    "alt": "Purple and blue abstract background"
   },
   {
     "name": "portfolio",
-    "src": "images/Me.png",
-    "alt": "My Ubuntu Machine"
+    "src": "images/Fitch.gif",
+    "alt": "Fitch project"
   }
 ]

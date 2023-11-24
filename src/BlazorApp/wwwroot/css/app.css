@@ -33,7 +33,6 @@ section.light {
   color: black;
   background: rgba(255, 255, 255, 0.35);
   padding: 8rem 0;
-  bottom: 1px;
 }
 
 @media screen and (max-width: 420px) {
@@ -64,7 +63,7 @@ section.light {
 
 
 section img.background {
-  width: 100%;
+  width: 100vmax;
   height: 100%;
   z-index: -1;
   position: absolute;
