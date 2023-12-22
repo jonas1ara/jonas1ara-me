@@ -2,12 +2,12 @@
   {
     "title": "Me",
       "description": "I needed a portfolio to share my projects and get a job, so, you guessed it! This web application is made by me using only HTML, CSS and... C# with blazor web assembly. It is hosted in GitHub Pages and deployed using GitHub Actions.", 
-    "url": "https://jonas1ara.github.io/jonas1ara-me/"
+    "url": "https://jonas1ara.me/"
   },
   {
     "title": "Photos",
       "description": "Tired of being spied on by Meta and its applications, I stopped using Instagram and Facebook, but I am a big fan of photography, so, I decided to build an application to share my best photos, it is a full stack .NET application using ASP.NET core for backend and Blazor for frontend, it is hosted in Azure and deployed using GitHub Actions.", 
-    "url": "#"
+    "url": "https://jonas1ara-photos.azurewebsites.net/"
   },
   {
     "title": "73",
