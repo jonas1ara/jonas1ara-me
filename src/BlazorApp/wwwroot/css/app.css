@@ -90,7 +90,7 @@ h1 {
   }
 
   p.large {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   li {
@@ -111,7 +111,7 @@ h1 {
   }
 
   p.large {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   li {
@@ -132,7 +132,7 @@ h1 {
   }
 
   p.large {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   li {
@@ -166,7 +166,7 @@ p {
 }
 
 p.large {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 p.small {
