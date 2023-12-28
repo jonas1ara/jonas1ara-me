@@ -39,7 +39,7 @@ section.light {
   section.light {
     color: black;
     background: rgba(255, 255, 255, 0.35);
-    padding: 8rem 0;
+    padding: 4rem 0;
     bottom: 0px;
   }
 }
@@ -90,11 +90,15 @@ h1 {
   }
 
   p.large {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   li {
-    font-size: 14px;
+    font-size: 12px;
+  }
+
+  p {
+    font-size: 12px;
   }
 }
 
@@ -107,11 +111,15 @@ h1 {
   }
 
   p.large {
-    font-size: 17px;
+    font-size: 16px;
   }
 
   li {
-    font-size: 16px;
+    font-size: 14px;
+  }
+
+  p {
+    font-size: 14px;
   }
 }
 
@@ -128,7 +136,11 @@ h1 {
   }
 
   li {
-    font-size: 18px;
+    font-size: 16px;
+  }
+
+  p {
+    font-size: 16px;
   }
 }
 
