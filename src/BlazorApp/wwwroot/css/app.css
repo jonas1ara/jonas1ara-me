@@ -44,6 +44,14 @@ section.light {
   }
 }
 
+section#portfolio.light {
+  background-image: linear-gradient(#d4bfcc, #332e4e) ;
+}
+
+div.box {
+  background-color: white;
+}
+
 #lista {
   text-align: left;
   columns: 2;
@@ -60,7 +68,6 @@ section.light {
     padding-left: 5px;
   }
 }
-
 
 section img.background {
   width: 100%;
@@ -149,6 +156,10 @@ h2 {
   font-size: 2rem;
   margin: 0;
   text-align: center;
+}
+
+h2.dark {
+  color: white;
 }
 
 h3 {
@@ -313,23 +324,4 @@ img.social-icon {
 
 .loading-progress-text:after {
   content: var(--blazor-load-percentage-text, "Loading");
-}
-
-  /**
-* CSS file to hold styles that apply "dark" mode across the application
-*/
-
-@media (prefers-color-scheme: dark) {
-
-  section#portfolio.light {
-    background-color: #d4bfcc;
-  }
-
-  div.box {
-    background-color: white;
-  }
-
-  h2.dark {
-    color: white;
-  }
 }
