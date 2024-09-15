@@ -13,7 +13,4 @@ _Ok, this appication it's my portfolio for my Computer Science career, as you se
 * _[Debian](https://www.debian.org/index.es.html) - Debian_
 * _[VS Code](https://code.visualstudio.com/) - VS Code_
 
-## Expressions of gratitude
-
-_Made with ❤️ by [Jonas Lara](https://medium.com/@jonas_lara) Maths student at [UNADM](https://www.unadmexico.mx/) for whoever is interested 😉_
 
