@@ -1,14 +1,14 @@
 {
-  "description": "I am a .NET developer in Mexico, my goal is to become a researcher, but before becoming a researcher I have to work to live, and currently work as a .NET developer, all the programming knowledge I have is acquired self-taught and that makes me feel so incredible. Finally, I have to tell you that I am an open-source contributor on small projects made with C and F#, am in love with the F# programming language (the vision of its creator Don Syme just blows my mind) and am currently looking to contribute to the F# compiler, wish me luck 🍀",
+  "description": "I am a .NET developer in Mexico, my goal is to become a researcher, but before becoming a researcher I have to work to live, and currently work as a .NET developer, all the programming knowledge I have is acquired self-taught and that makes me feel so incredible. Finally, I have to tell you that I am an open-source contributor on small projects made with C, C# and F#, am in love with the F# programming language (the vision of its creator Don Syme just blows my mind) and am currently looking to contribute to the F# compiler, wish me luck 🍀",
   "skills": [
     ".NET",
-    "F# (FP)",
-    "C# (OOP)",
-    "C++ (OOP)",
+    "TS - JS",
+    "C# - F#",
+    "C - C++",
     "SQL - NoSQL",
-    "Linux",
-    "Azure",
-    "Blazor",
+    "Linux - Windows",
+    "Azure - Firebase",
+    "Blazor - React",
     "Git - GitHub",
     "ASP.NET core"
   ],
