@@ -1,5 +1,5 @@
-<section class="light" id="portfolio">
-    <h2 class = "dark">Portfolio</h2>
+﻿<section class="light" id="portfolio">
+    <h2 class = "dark">GitHub</h2>
     <div class="portfolio-container">
     @if (projects is null)
     {
@@ -17,12 +17,17 @@
         <div class="container">
             @foreach (var project in projects)
             {
-                <div class="box" key="@project.Title">
-                    <a href="@project.Url" target="_blank" rel="noopener noreferrer">
-                        <h3 style="flex-basis: 40px;">@project.Title</h3>
-                    </a>
-                    <p class="small">@project.Description</p>
-                </div>
+                    <div class="box" key="@project.Title">
+                        <a href="@project.Url" target="_blank" rel="noopener noreferrer">
+                            <h3 style="flex-basis: 40px;">@project.Title</h3>
+                        </a>
+
+                        <div class="small" style="margin-top: 10px; opacity: 0.8;">
+                            ⭐ @project.Stars &nbsp;&nbsp; 🍴 @project.Count
+                        </div>
+
+                        <p class="small">@project.Description</p>
+                    </div>
             }
         </div>
     }
@@ -31,17 +36,18 @@
 
 @code {
     [Parameter, EditorRequired]
-    public required HttpClient Http { get; set; }
-
-    [Parameter, EditorRequired]
     public required HeroImageService HeroImageService { get; set; }
+
+    [Inject]
+    public GitHubService GitHubService { get; set; } = default!;
 
     private List<Project>? projects;
     private HeroImage? hero;
 
     protected override async Task OnInitializedAsync()
     {
-        projects = await Http.GetFromJsonAsync<List<Project>>("sample-data/projects.json");
+        projects = await GitHubService.GetTopRepositoriesAsync("jonas1ara", 8);
+
         hero = await HeroImageService.GetHeroAsync(img => img.Name is "portfolio");
     }
 }

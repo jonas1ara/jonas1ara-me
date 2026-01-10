@@ -16,8 +16,8 @@
             }
             @if (string.IsNullOrWhiteSpace(property.Twitter) is false)
             {
-                <a href="https://twitter.com/@(property.Twitter)" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.Twitter" alt="Twitter" class="social-icon" />
+                <a href="https://x.com/@(property.Twitter)" target="_blank" rel="noopener noreferrer">
+                    <img src="@icons.X" alt="X" class="social-icon" />
                 </a>
             }
             @if (string.IsNullOrWhiteSpace(property.YouTube) is false)
@@ -53,6 +53,6 @@
     protected override async Task OnInitializedAsync()
     {
         property = await Http.GetFromJsonAsync<SiteProperties>("sample-data/siteproperties.json");
-        icons = await Http.GetFromJsonAsync<SocialIcons>("sample-data/socialicons.json");
+        icons = await Http.GetFromJsonAsync<SocialIcons>("sample-data/socialicons2.json");
     }
 }
