@@ -1,6 +1,6 @@
 ![Technology](/src/BlazorApp/wwwroot/images/Microsoft-dotnet.png)
 
-_Ok, this appication it's my portfolio for my GitHub projects, as you can see It is a very fast application without any 💧 of javascript written over .NET_
+_Ok, this appication it's my **LinkTree** for my GitHub projects and Social Networks, as you can see it is a very fast application without any 💧 of javascript written over .NET_
 
 ![Languages](/src/BlazorApp/wwwroot/images/Languages.png)
 
