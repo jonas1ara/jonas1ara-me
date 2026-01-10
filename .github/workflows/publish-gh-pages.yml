@@ -23,7 +23,7 @@ jobs:
 
       - uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '8.x'
+          dotnet-version: '10.x'
 
       - name: Publish Blazor WASM
         run: dotnet publish src/BlazorApp -c Release -o publish
