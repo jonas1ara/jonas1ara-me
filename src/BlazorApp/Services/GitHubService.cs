@@ -32,9 +32,12 @@ public class GitHubService
 
             System.Diagnostics.Debug.WriteLine($">>> Repos recibidos: {repos.Count}");
 
+            var allowedForks = new[] { "fsharp", "fitch" };
+
             return repos
-                .Where(r => !r.fork)
-                .OrderByDescending(r => r.stargazers_count)
+                .Where(r => (!r.fork || allowedForks.Contains(r.name.ToLower())) && !r.archived)
+                .OrderByDescending(r => allowedForks.Contains(r.name.ToLower())) 
+                .ThenByDescending(r => r.stargazers_count)                       
                 .Take(count)
                 .Select(r => new Project
                 {
@@ -47,6 +50,7 @@ public class GitHubService
                     Count = r.forks_count
                 })
                 .ToList();
+
         }
         catch (Exception ex)
         {
